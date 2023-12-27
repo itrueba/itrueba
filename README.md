@@ -1,8 +1,9 @@
 
 ¡Bienvenido a mi Rincón de Código! 🚀
-¡Hola! 👋 Soy [TuNombre], un apasionado desarrollador de 25 años con experiencia en automatización y robótica industrial. He realizado un grado dual en Industria Digital y tengo sólidos conocimientos en desarrollo web y programación.
 
+¡Hola! 👋 Soy Iker, un apasionado desarrollador de 25 años.
 Acerca de mí
+
 🎓 Estudios en Automatización y Robótica Industrial.
 🖥️ Editor de código: Visual Studio Code.
 💻 Sistema operativo: Windows (¡aunque he explorado otros como Linux!).
@@ -12,5 +13,6 @@ Mis Objetivos
 Actualmente, estoy enfocado en perfeccionar mis habilidades en Python. Aquí compartiré mis proyectos y avances. ¡Acompáñame en mi viaje de aprendizaje y desarrollo!
 
 Proyectos Destacados
+
 🚗 Proyecto Mercedes: Gestión de rotación de trabajadores en cadena de montaje con Django.
 ¡Gracias por visitar mi repositorio! ¡Espero que encuentres inspiración y aprendizaje en mi viaje de código! 🌟
